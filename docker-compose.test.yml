@@ -1,0 +1,14 @@
+sut:
+        build: .
+        dockerfile: Dockerfile.test
+        links: 
+         - web
+        environment:
+         - WEB_APP_IP=web
+web:
+        build: .
+        dockerfile: Dockerfile
+        links:
+                - redis
+redis:
+    image: redis
