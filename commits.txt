@@ -1,0 +1,11 @@
+commit 6c4c322e6763d5f3e5dd9862396ec93ccaf952bf
+Author: 0014593 <fjgraciano@viewnext.com>
+Date:   Wed Sep 20 13:44:25 2017 +0200
+
+    Added comment to testing
+
+commit 0e35598292e0a551d8c06fe28ae9ae4eab715e01
+Author: 0014593 <fjgraciano@viewnext.com>
+Date:   Wed Sep 20 13:41:50 2017 +0200
+
+    Added testing
